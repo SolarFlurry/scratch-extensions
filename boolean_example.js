@@ -8,11 +8,11 @@ class BooleanExample {
             "name": "Standard Booleans",
             "blocks": [ {
                             "opcode": "rtrue",
-                            "blockType": "reporter",
+                            "blockType": "Boolean",
                             "text": "true",
                             }
                         },{"opcode": "rfalse",
-                            "blockType": "reporter",
+                            "blockType": "Boolean",
                             "text": "false",
                             }
                         }, ]
